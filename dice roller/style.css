@@ -1,0 +1,36 @@
+#container{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color:rgb(254, 198, 125);
+    font-weight: bold;
+    color:azure;
+    cursor: pointer;
+}
+button:hover{
+    background-color:rgb(81, 63, 38);
+}
+button:active{
+    background-color: rgb(202, 151, 80);
+}
+input{
+    font-size: 2rem;
+    width:150px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#diceResult{
+    margin: 25px;
+}
+#diceImages img{
+    width : 150px;
+    margin: 5px;
+}
